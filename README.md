@@ -1,7 +1,5 @@
 # GitHub Action to install and setup [`ko`](https://github.com/ko-build/ko)
 
-[![Build](https://github.com/step-security/setup-ko/actions/workflows/use-action.yaml/badge.svg)](https://github.com/step-security/setup-ko/actions/workflows/use-action.yaml)
-
 ## Example usage
 
 ```yaml
