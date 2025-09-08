@@ -19,7 +19,7 @@ jobs:
         with:
           go-version: '1.23.x'
 
-      - uses: step-security/setup-ko@v0.8
+      - uses: step-security/setup-ko@v0
       - run: ko build
 ```
 
